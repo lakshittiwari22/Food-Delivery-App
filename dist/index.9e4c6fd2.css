@@ -1,0 +1,51 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.navbar {
+  background-color: #414141;
+  align-items: center;
+  gap: 500px;
+  height: 40px;
+  padding: 5px 10px;
+  display: flex;
+}
+
+.logo-img {
+  width: 40px;
+  height: 40px;
+}
+
+.sidebar {
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+  height: 90%;
+  padding: 10px;
+  display: flex;
+}
+
+.search-bar {
+  border: none;
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+}
+
+.avatar {
+  color: #f0f8ff;
+  background-color: #8a2be2;
+  border: none;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
